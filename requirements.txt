@@ -1,0 +1,5 @@
+spacy
+PyMuPDF
+pandas
+streamlit
+pdfminer.six
